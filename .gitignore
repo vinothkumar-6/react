@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# macOS files
+.DS_Store
+
+# IDE files
+.vscode/
+
+# Coverage
+coverage/
+
+# Package files
+*.tgz
+
+# Sub-project specific patterns (if needed)
+**/node_modules/
+**/build/
+**/dist/
+**/.env
+**/*.log
+**/.DS_Store
+**/.vscode/
+**/coverage/
+**/*.tgz
